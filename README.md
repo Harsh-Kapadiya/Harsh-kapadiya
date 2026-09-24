@@ -98,12 +98,12 @@ const harsh = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Harsh-Kapadiya&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Kapadiya&theme=radical&hide_border=false&layout=compact" alt="Top languages"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harsh-Kapadiya&theme=radical" alt="GitHub stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh-Kapadiya&theme=radical" alt="Most used languages"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-Kapadiya&theme=radical&hide_border=false" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Harsh-Kapadiya&theme=radical&hide_border=false" alt="GitHub streak"/>
 
 </div>
 
@@ -152,19 +152,10 @@ const harsh = {
 
 <div align="center">
 
-<a href="https://github.com/Harsh-Kapadiya/SRMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Kapadiya&repo=SRMS&theme=radical" alt="SRMS project"/>
-</a>
-<a href="https://github.com/Harsh-Kapadiya/website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Kapadiya&repo=website&theme=radical" alt="Website project"/>
-</a>
-
-<br/>
-
-| Project | Status |
-|:--------|:-------|
-| 🚧 [**SRMS**](https://github.com/Harsh-Kapadiya/SRMS) | **Main focus:** actively building |
-| 🛠️ [**website**](https://github.com/Harsh-Kapadiya/website) | **Side project:** progressing alongside SRMS |
+| Project | Status | Info |
+|:--------|:-------|:-----|
+| 🚧 [**SRMS**](https://github.com/Harsh-Kapadiya/SRMS) | **Main focus:** actively building | ![Top language](https://img.shields.io/github/languages/top/Harsh-Kapadiya/SRMS?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Harsh-Kapadiya/SRMS?style=flat-square) ![Stars](https://img.shields.io/github/stars/Harsh-Kapadiya/SRMS?style=flat-square) |
+| 🛠️ [**website**](https://github.com/Harsh-Kapadiya/website) | **Side project:** progressing alongside SRMS | ![Top language](https://img.shields.io/github/languages/top/Harsh-Kapadiya/website?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Harsh-Kapadiya/website?style=flat-square) ![Stars](https://img.shields.io/github/stars/Harsh-Kapadiya/website?style=flat-square) |
 
 </div>
 
@@ -194,7 +185,7 @@ const harsh = {
 
 <br/>
 
-<!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Harsh-Kapadiya&icon=0&color=0" alt="Visitor count"/></a> -->
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Harsh-Kapadiya&icon=0&color=0" alt="Visitor count"/></a>
 
 </div>
 
