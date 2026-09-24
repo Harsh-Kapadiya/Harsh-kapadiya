@@ -108,28 +108,23 @@ const harsh = {
 </div>
 
 <details>
-<summary><b>📈 Contribution activity graph</b></summary>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Kapadiya&theme=react-dark&hide_border=true&area=true" alt="Activity graph" width="100%"/>
-
-</details>
-
-<details>
-<summary><b>🏆 GitHub trophies</b></summary>
+<summary><b>📈 Contribution graph</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Kapadiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://ghchart.rshah.org/00C4CC/Harsh-Kapadiya" alt="Contribution graph" width="100%"/>
 </p>
 
 </details>
 
 <details>
-<summary><b>🔝 Top contributed repos</b></summary>
+<summary><b>🧩 Language breakdown & productive time</b></summary>
 <br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Harsh-Kapadiya&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top contributed repos"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Kapadiya&theme=radical" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsh-Kapadiya&theme=radical&utcOffset=5.5" alt="Productive time"/>
+</p>
 
 </details>
 
