@@ -35,10 +35,32 @@
 const harsh = {
   name: "Harsh Kapadiya",
   role: "Developer & Designer",
-  focus: ["Web Development", "Problem Solving", "UI/UX"],
-  currentlyBuilding: { main: "SRMS", sideProject: "website" },
-  currentlyLearning: ["Data Structures & Algorithms", "React", "Node.js"],
-  funFact: "I debug with coffee ☕ and design with Figma 🎨",
+
+  interests: [
+    "Web Development",
+    "UI/UX",
+    "Problem Solving"
+  ],
+
+  currentlyBuilding: [
+    "SRMS",
+    "Portfolio Website"
+  ],
+
+  learning: [
+    "Data Structures & Algorithms",
+    "React",
+    "Node.js"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Figma",
+    "Canva"
+  ],
+
+  funFact: "I debug with coffee ☕"
   lookingFor: "Internships, open-source & cool collaborations 🤝"
 };
 ```
@@ -118,7 +140,7 @@ const harsh = {
 </details> -->
 
 <details>
-<summary><b>🧩 Language breakdown & productive time</b></summary>
+<summary><b>🧩 Language breakdown</b></summary>
 <br/>
 
 <p align="center">
