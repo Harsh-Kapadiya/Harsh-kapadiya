@@ -107,7 +107,7 @@ const harsh = {
 
 </div>
 
-<details>
+<!-- <details>
 <summary><b>📈 Contribution graph</b></summary>
 <br/>
 
@@ -115,7 +115,7 @@ const harsh = {
   <img src="https://ghchart.rshah.org/00C4CC/Harsh-Kapadiya" alt="Contribution graph" width="100%"/>
 </p>
 
-</details>
+</details> -->
 
 <details>
 <summary><b>🧩 Language breakdown & productive time</b></summary>
@@ -123,7 +123,7 @@ const harsh = {
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Kapadiya&theme=radical" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsh-Kapadiya&theme=radical&utcOffset=5.5" alt="Productive time"/>
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsh-Kapadiya&theme=radical&utcOffset=5.5" alt="Productive time"/> -->
 </p>
 
 </details>
@@ -180,7 +180,7 @@ const harsh = {
 
 <br/>
 
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Harsh-Kapadiya&icon=0&color=0" alt="Visitor count"/></a>
+<!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Harsh-Kapadiya&icon=0&color=0" alt="Visitor count"/></a> -->
 
 </div>
 
