@@ -36,6 +36,7 @@ const harsh = {
   name: "Harsh Kapadiya",
   role: "Developer & Designer",
   focus: ["Web Development", "Problem Solving", "UI/UX"],
+  currentlyBuilding: { main: "SRMS", sideProject: "website" },
   currentlyLearning: ["Data Structures & Algorithms", "React", "Node.js"],
   funFact: "I debug with coffee ☕ and design with Figma 🎨",
   lookingFor: "Internships, open-source & cool collaborations 🤝"
@@ -45,7 +46,7 @@ const harsh = {
 </td>
 <td width="40%">
 
-- 🔭 **Currently working on:** _your project here_
+- 🔭 **Currently working on:** [**SRMS**](https://github.com/Harsh-Kapadiya/SRMS) (main) and [**Portfolio**](https://github.com/Harsh-Kapadiya/website) (on the side)
 - 🌱 **Learning:** DSA, React & Node.js
 - 👯 **Open to:** collaborations & open source
 - 💬 **Ask me about:** C++, Java, JavaScript, PHP
@@ -149,15 +150,21 @@ const harsh = {
 
 ## 📌 Featured Projects
 
-<!-- Replace "your-repo-name" with your real repositories -->
 <div align="center">
 
-<a href="https://github.com/Harsh-Kapadiya/your-repo-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Kapadiya&repo=your-repo-name&theme=radical" alt="Project 1"/>
+<a href="https://github.com/Harsh-Kapadiya/SRMS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Kapadiya&repo=SRMS&theme=radical" alt="SRMS project"/>
 </a>
-<a href="https://github.com/Harsh-Kapadiya/your-second-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Kapadiya&repo=your-second-repo&theme=radical" alt="Project 2"/>
+<a href="https://github.com/Harsh-Kapadiya/website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harsh-Kapadiya&repo=website&theme=radical" alt="Website project"/>
 </a>
+
+<br/>
+
+| Project | Status |
+|:--------|:-------|
+| 🚧 [**SRMS**](https://github.com/Harsh-Kapadiya/SRMS) | **Main focus:** actively building |
+| 🛠️ [**website**](https://github.com/Harsh-Kapadiya/website) | **Side project:** progressing alongside SRMS |
 
 </div>
 
@@ -187,7 +194,7 @@ const harsh = {
 
 <br/>
 
-<!-- <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Harsh-Kapadiya&icon=0&color=0" alt="Visitor count"/></a> -->
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Harsh-Kapadiya&icon=0&color=0" alt="Visitor count"/></a>
 
 </div>
 
